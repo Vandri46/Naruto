@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Naruto
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
@@ -15,3 +16,7 @@ Then, install dependencies and run the preview server:
 $ npm install && bower install
 $ grunt server
 ```
+=======
+Naruto
+======
+>>>>>>> 86851d408cc270883b0d72c06e43265a4beba0fd
