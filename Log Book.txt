@@ -1,0 +1,196 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: The BABANK
+Judul Topik: NARUTO
+Alamat Github: https://github.com/Vandri46/Naruto
+Alamat Trello: https://trello.com/b/tlxN5en5/naruto
+Anggota 1:
+	Nama: Vandri Sixsandra
+	NIM:  121112082
+Anggota 2:
+	Nama: Debby Septianti
+	NIM:  121112112
+Anggota 3:
+	Nama: Rini Heni
+	NIM:  121113380
+Anggota 4:
+	Nama: Junri Pranata Tarigan
+	NIM:  121112546
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+02/6 - 04/6
+Scrummaster: Vandri Sixsandra 121112082
+
+Sprint 2: 
+04/6 - 07/6
+Scrummaster: Debby Septianti 121112112
+
+Sprint 3: 
+07/6 - 09/6
+Srummaster: Rini Heni 121113380
+
+Sprint 4:
+09/6 - 12/6
+Srummaster: Junri Pranata Tarigan 121112546
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+02/6 
+Daily Scrum
+(Nama Anggota 1): Vandri Sixsandra
+1. Masalah dengan penginstalan bespoke
+2. 
+3.
+
+(Nama Anggota 2): Debby Septianti
+1. Kendala pada meng clone
+2.
+3.
+
+(Nama Anggota 3): Rini Heni
+1. Kendala pada penginstalan bespoke
+2.
+3.
+
+(Nama Anggota 4): Junri Pranata
+1. Masalah dengan penginstalan bespoke
+2. 
+3.
+
+03/6
+Daily Scrum
+(Nama Anggota 1): Vandri Sixsandra
+1. Masih masalah dengan penginstalan bespoke
+2. 
+3.
+
+(Nama Anggota 2): Debby Septianti
+1. Kendala pada Nge pull
+2.
+3.
+
+(Nama Anggota 3): Rini Heni
+1. Masih berkendala pada penginstalan bespoke
+2.
+3.
+
+(Nama Anggota 4): Junri Pranata
+1. Masalah dengan penginstalan bespoke
+2. 
+3.
+
+04/6
+Daily Scrum
+(Nama Anggota 1): Vandri Sixsandra
+1.Masih masalah dengan penginstalan bespoke
+2. 
+3.
+
+(Nama Anggota 2): Debby Septianti
+1. Masih berkendala dengan nge Pull
+2.
+3.
+
+(Nama Anggota 3): Rini Heni
+1. Masalah pada clone
+2.
+3.
+
+(Nama Anggota 4): Junri Pranata
+1. Masalah pada commit
+2. 
+3.
+
+05/6
+Daily Scrum
+(Nama Anggota 1): Vandri Sixsandra
+1. Masih bermasalah dengan penginstalan bespoke
+2. 
+3.
+
+(Nama Anggota 2): Debby Septianti
+1. Commit dan Push : Perkembangan : Generasi 0
+2.
+3.
+
+(Nama Anggota 3): Rini Heni
+1. Kendala pada commit
+2.
+3.
+
+(Nama Anggota 4): Junri Pranata
+1. Masih Berkendala dengan commit
+2. 
+3.
+
+06/6
+Daily Scrum
+(Nama Anggota 1): Vandri Sixsandra
+1. Masih masalah dengan penginstalan bespoke
+2. 
+3.
+
+(Nama Anggota 2): Debby Septianti
+1. Commit dan Push : Perkembangan : Generasi I
+2.
+3.
+
+(Nama Anggota 3): Rini Heni
+1. Masih berkendala dengan kommit
+2.
+3.
+
+(Nama Anggota 4): Junri Pranata
+1. Masih bermasalah dengan kommit
+2. 
+3.
+
+07/6
+Daily Scrum
+(Nama Anggota 1): Vandri Sixsandra
+1. Masalah penginstalan bespoke sudah terpecahkan
+2. 
+3.
+
+(Nama Anggota 2): Debby Septianti
+1. Masalah pada commit
+2.
+3.
+
+(Nama Anggota 3): Rini Heni
+1. - (Tidak ada masalah)
+2.
+3.
+
+(Nama Anggota 4): Junri Pranata
+1. - (Tidak ada masalah)
+2. 
+3.
+
+08/6
+Daily Scrum
+(Nama Anggota 1): Vandri Sixsandra
+1. - (Tidak ada masalah)
+2. 
+3.
+
+(Nama Anggota 2): Debby Septianti
+1. Masih bermasalah dengan commit
+2.
+3.
+
+(Nama Anggota 3): Rini Heni
+1. - (Tidak ada masalah)
+2.
+3.
+
+(Nama Anggota 4): Junri Pranata
+1. Bermasalah dengan commit lagi
+2. 
+3.
